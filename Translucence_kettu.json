@@ -1,0 +1,170 @@
+{
+  "name": "Translucence",
+  "description": "A translucent/frosted glass Discord mobile theme — converted from CapnKitten's BetterDiscord theme.",
+  "authors": [
+    {
+      "name": "CapnKitten (original BD theme)",
+      "id": "0"
+    }
+  ],
+  "spec": 2,
+
+  "semanticColors": {
+    "HEADER_PRIMARY":                 ["#FFFFFF"],
+    "HEADER_SECONDARY":               ["#C4C4C4"],
+
+    "TEXT_NORMAL":                    ["#E0E0E0"],
+    "TEXT_MUTED":                     ["#9E9E9E"],
+    "TEXT_LINK":                      ["#1BD58B"],
+    "TEXT_DANGER":                    ["#FF5252"],
+    "TEXT_WARNING":                   ["#FFA040"],
+    "TEXT_POSITIVE":                  ["#1BD58B"],
+
+    "INTERACTIVE_NORMAL":             ["#C9C9C9"],
+    "INTERACTIVE_HOVER":              ["#E8E8E8"],
+    "INTERACTIVE_ACTIVE":             ["#FFFFFF"],
+    "INTERACTIVE_MUTED":              ["#6E6E6E"],
+
+    "BACKGROUND_PRIMARY":             ["#161616"],
+    "BACKGROUND_SECONDARY":           ["#0F0F0F"],
+    "BACKGROUND_SECONDARY_ALT":       ["#0A0A0A"],
+    "BACKGROUND_TERTIARY":            ["#111111"],
+    "BACKGROUND_ACCENT":              ["#0E3D27"],
+    "BACKGROUND_FLOATING":            ["#0D0D0D"],
+    "BACKGROUND_MOBILE_PRIMARY":      ["#161616"],
+    "BACKGROUND_MOBILE_SECONDARY":    ["#0F0F0F"],
+    "BACKGROUND_NESTED_FLOATING":     ["#111111"],
+
+    "BACKGROUND_MESSAGE_HOVER":       ["#1A1A1A"],
+    "BACKGROUND_MODIFIER_HOVER":      ["#1E1E1E"],
+    "BACKGROUND_MODIFIER_ACTIVE":     ["#222222"],
+    "BACKGROUND_MODIFIER_SELECTED":   ["#252525"],
+    "BACKGROUND_MODIFIER_ACCENT":     ["#1E1E1E"],
+
+    "SCROLLBAR_THIN_THUMB":           ["#2E2E2E"],
+    "SCROLLBAR_THIN_TRACK":           ["transparent"],
+    "SCROLLBAR_AUTO_THUMB":           ["#2E2E2E"],
+    "SCROLLBAR_AUTO_TRACK":           ["#161616"],
+
+    "CHANNELTEXTAREA_BACKGROUND":     ["#1A1A1A"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER":  ["#5C5C5C"],
+
+    "CHANNELS_DEFAULT":               ["#9E9E9E"],
+    "CHANNEL_ICON":                   ["#9E9E9E"],
+
+    "KEYBOARD":                       ["#111111"],
+
+    "SPOILER_HIDDEN_BACKGROUND":      ["#0D0D0D"],
+    "SPOILER_REVEALED_BACKGROUND":    ["#1A1A1A"],
+
+    "CHAT_BACKGROUND":                ["#161616"],
+
+    "STATUS_POSITIVE_TEXT":           ["#1BD58B"],
+    "STATUS_DANGER_TEXT":             ["#FF5252"],
+    "STATUS_WARNING_TEXT":            ["#FFA040"],
+
+    "MENTION_FOREGROUND":             ["#1BD58B"],
+
+    "FOCUS_PRIMARY":                  ["#1BD58B"]
+  },
+
+  "rawColors": {
+    "PRIMARY_100": "#F5F5F5",
+    "PRIMARY_200": "#DFDFDF",
+    "PRIMARY_300": "#BEBEBE",
+    "PRIMARY_360": "#9E9E9E",
+    "PRIMARY_400": "#7A7A7A",
+    "PRIMARY_500": "#4D4D4D",
+    "PRIMARY_600": "#2A2A2A",
+    "PRIMARY_630": "#1F1F1F",
+    "PRIMARY_660": "#161616",
+    "PRIMARY_700": "#111111",
+    "PRIMARY_800": "#0A0A0A",
+
+    "BRAND_260": "#69FBBF",
+    "BRAND_300": "#50F2B2",
+    "BRAND_330": "#38E59A",
+    "BRAND_345": "#2DDF93",
+    "BRAND_360": "#23DA8E",
+    "BRAND_400": "#1BD58B",
+    "BRAND_430": "#18C47E",
+    "BRAND_460": "#16B573",
+    "BRAND_500": "#12A567",
+    "BRAND_530": "#0F955C",
+    "BRAND_560": "#0D8652",
+    "BRAND_600": "#0A7646",
+    "BRAND_630": "#08673B",
+    "BRAND_660": "#065831",
+    "BRAND_700": "#044926",
+
+    "GREEN_260": "#69FBBF",
+    "GREEN_300": "#50F2B2",
+    "GREEN_330": "#38E59A",
+    "GREEN_345": "#2DDF93",
+    "GREEN_360": "#23DA8E",
+    "GREEN_400": "#1BD58B",
+    "GREEN_430": "#18C47E",
+    "GREEN_460": "#16B573",
+    "GREEN_500": "#12A567",
+    "GREEN_530": "#0F955C",
+    "GREEN_560": "#0D8652",
+    "GREEN_600": "#0A7646",
+    "GREEN_630": "#08673B",
+    "GREEN_660": "#065831",
+    "GREEN_700": "#044926",
+
+    "RED_260": "#FF8080",
+    "RED_300": "#FF6666",
+    "RED_330": "#FF5252",
+    "RED_345": "#F54545",
+    "RED_360": "#ED3D3D",
+    "RED_400": "#E53535",
+    "RED_430": "#D43030",
+    "RED_460": "#C42A2A",
+    "RED_500": "#B32424",
+    "RED_530": "#A21E1E",
+    "RED_560": "#921818",
+    "RED_600": "#811212",
+    "RED_630": "#710D0D",
+    "RED_660": "#600808",
+    "RED_700": "#500505",
+
+    "ORANGE_260": "#FFB84D",
+    "ORANGE_300": "#FFA833",
+    "ORANGE_330": "#FF991A",
+    "ORANGE_345": "#F0900F",
+    "ORANGE_360": "#E08009",
+    "ORANGE_400": "#CC7308",
+    "ORANGE_430": "#B86607",
+    "ORANGE_460": "#A45905",
+    "ORANGE_500": "#904C04",
+    "ORANGE_530": "#7C4003",
+    "ORANGE_560": "#683302",
+    "ORANGE_600": "#542601",
+    "ORANGE_630": "#401900",
+    "ORANGE_660": "#2C0D00",
+    "ORANGE_700": "#180600",
+
+    "BLUE_260": "#80C9FF",
+    "BLUE_300": "#66BDFF",
+    "BLUE_330": "#4DB0FF",
+    "BLUE_345": "#33A3FF",
+    "BLUE_360": "#1A97FF",
+    "BLUE_400": "#008AEB",
+    "BLUE_430": "#007DD4",
+    "BLUE_460": "#0070BD",
+    "BLUE_500": "#0063A6",
+    "BLUE_530": "#00568F",
+    "BLUE_560": "#004979",
+    "BLUE_600": "#003C62",
+    "BLUE_630": "#002F4B",
+    "BLUE_660": "#002235",
+    "BLUE_700": "#00151E"
+  },
+
+  "background": {
+    "url": "https://i.ibb.co/5h7854Wy/bgmVeyt.jpg",
+    "blur": 6.0,
+    "alpha": 0.6
+  }
+}
