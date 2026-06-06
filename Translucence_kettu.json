@@ -160,7 +160,15 @@
     "BLUE_630": "#002F4B",
     "BLUE_660": "#002235",
     "BLUE_700": "#00151E"
-  },
+ 
+"PLUM_1":  "#161616",
+"PLUM_2":  "#141414",
+"PLUM_3":  "#111111",
+
+
+
+
+ },
 
   "background": {
     "url": "https://i.ibb.co/5h7854Wy/bgmVeyt.jpg",
