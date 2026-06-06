@@ -13,7 +13,7 @@
     "BACKGROUND_MENTIONED":                        ["#2780e617", "#2780e617"],
     "BACKGROUND_MENTIONED_HOVER":                  ["#2780e625", "#2780e625"],
     "BACKGROUND_MOBILE_PRIMARY":                   ["#000000",   "#e8eaf0"],
-    "BACKGROUND_MOBILE_SECONDARY":                 ["#000000",   "#dde1ea"],
+    "BACKGROUND_MOBILE_SECONDARY":                 ["#FF0000",   "#FF0000"],
     "BACKGROUND_MODIFIER_ACCENT":                  ["#4a4a4a50", "#c0c5d0"],
     "BACKGROUND_MODIFIER_ACTIVE":                  ["#181818",   "#bdc2ce"],
     "BACKGROUND_MODIFIER_HOVER":                   ["#181818",   "#d0d5e0"],
