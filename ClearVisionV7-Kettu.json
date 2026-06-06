@@ -20,7 +20,7 @@
     "BACKGROUND_MODIFIER_SELECTED":                ["#181818",   "#2780e620"],
     "BACKGROUND_NESTED_FLOATING":                  ["#000000f0", "#dde1ea"],
     "BACKGROUND_PRIMARY":                          ["#000000",   "#e8eaf0"],
-    "BACKGROUND_SECONDARY":                        ["#000000",   "#dde1ea"],
+    "BACKGROUND_SECONDARY":                        ["#FF0000",   "#FF0000"],
     "BACKGROUND_SECONDARY_ALT":                    ["#000000",   "#d5d9e4"],
     "BACKGROUND_TERTIARY":                         ["#000000",   "#c8cdd9"],
     "BG_BACKDROP":                                 ["#000000",   "#e8eaf0"],
