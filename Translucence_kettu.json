@@ -26,20 +26,20 @@
     "INTERACTIVE_MUTED":              ["#6E6E6E"],
 
     "BACKGROUND_PRIMARY":             ["#161616"],
-    "BACKGROUND_SECONDARY":           ["#0D0D0D"],
+    "BACKGROUND_SECONDARY":           ["#0F0F0F"],
     "BACKGROUND_SECONDARY_ALT":       ["#0A0A0A"],
-    "BACKGROUND_TERTIARY":            ["#0A0A0A"],
+    "BACKGROUND_TERTIARY":            ["#111111"],
     "BACKGROUND_ACCENT":              ["#0E3D27"],
-    "BACKGROUND_FLOATING":            ["#0D0D0D"],
-    "BACKGROUND_MOBILE_PRIMARY":      ["#111111"],
-    "BACKGROUND_MOBILE_SECONDARY":    ["#0D0D0D"],
-    "BACKGROUND_NESTED_FLOATING":     ["#111111"],
+    "BACKGROUND_FLOATING":            ["#161616"],
+    "BACKGROUND_MOBILE_PRIMARY":      ["#161616"],
+    "BACKGROUND_MOBILE_SECONDARY":    ["#0F0F0F"],
+    "BACKGROUND_NESTED_FLOATING":     ["#161616"],
 
-    "BACKGROUND_MESSAGE_HOVER":       ["#1A1A1A"],
-    "BACKGROUND_MODIFIER_HOVER":      ["#1E1E1E"],
-    "BACKGROUND_MODIFIER_ACTIVE":     ["#222222"],
-    "BACKGROUND_MODIFIER_SELECTED":   ["#252525"],
-    "BACKGROUND_MODIFIER_ACCENT":     ["#1E1E1E"],
+    "BACKGROUND_MESSAGE_HOVER":       ["#161616"],
+    "BACKGROUND_MODIFIER_HOVER":      ["#141414"],
+    "BACKGROUND_MODIFIER_ACTIVE":     ["#161616"],
+    "BACKGROUND_MODIFIER_SELECTED":   ["#181818"],
+    "BACKGROUND_MODIFIER_ACCENT":     ["#141414"],
 
     "SCROLLBAR_THIN_THUMB":           ["#2E2E2E"],
     "SCROLLBAR_THIN_TRACK":           ["transparent"],
@@ -160,15 +160,7 @@
     "BLUE_630": "#002F4B",
     "BLUE_660": "#002235",
     "BLUE_700": "#00151E"
- 
-"PLUM_1":  "#161616",
-"PLUM_2":  "#141414",
-"PLUM_3":  "#111111",
-
-
-
-
- },
+  },
 
   "background": {
     "url": "https://i.ibb.co/5h7854Wy/bgmVeyt.jpg",
